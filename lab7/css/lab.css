@@ -1,0 +1,30 @@
+<div id="content">
+h1 {
+  color:lightblue;
+  front size:50%;
+}
+a{
+  color:Black;
+  front-size: 20px;
+  padding: 10px
+  margin: 10px;
+  border: solid 1px #00FF00
+  front size:100%;
+}
+
+body {
+  background-color: ;
+}
+p.one{
+  border-style: solid;
+  border-color: black;
+}
+h1{
+  border-style: solid;
+  border-color: orange
+}
+h2{
+  border-Style: solid;
+  Border-color: Orange;
+}
+</div>
