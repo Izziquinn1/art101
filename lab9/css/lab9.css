@@ -1,7 +1,15 @@
+#output{
+  width: 300px;
+  height: 300px;
+   border: 15px solid green;
+   padding: 50px;
+   margin: 20px;
+}
+
 < div id="content">
 
 h1 {
-  color: Black;
+  color: Purple;
   front size: 50%;
 }
 a{

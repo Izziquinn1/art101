@@ -11,18 +11,21 @@ a{
   border: solid 1px #00FF00
   front size:100%;
 }
-
 body {
   background-color: ;
 }
 p.one{
-  border-style: solid;
+  border-style:solid;
   border-color: black;
 }
 h1{
-  border-style: solid;
-  border-color: orange
+  border-style:solid;
+  border-color: Orange
 }
+h2{
+  border-style: solid;
+}
+
 h2{
   border-Style: solid;
   Border-color: Orange;
