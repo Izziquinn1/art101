@@ -1,0 +1,21 @@
+duv {
+  width: 30%;
+  height: 30%;
+  background-color: blue;
+}
+
+.special{
+  background-color: Brown;
+}
+
+.not-Special{
+  background-color: Pink;
+}
+
+.so-So{
+  background-color: Blue;
+}
+
+body{
+  background-color: Orange;
+}
