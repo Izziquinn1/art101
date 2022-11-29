@@ -1,0 +1,12 @@
+body{
+  Background-color: Pink;
+}
+
+H1{
+  Background-color: Blue;
+  p.dotted {border-style: dotted;}
+}
+
+H2{
+Background-color: Green;
+}
